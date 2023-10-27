@@ -1,0 +1,170 @@
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\appsettings.Development.json
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\appsettings.json
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\WEB API.exe
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\WEB API.deps.json
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\WEB API.runtimeconfig.json
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\WEB API.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\WEB API.pdb
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Azure.Core.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Azure.Identity.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Application.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Domain.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Infrastructure.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Application.pdb
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Domain.pdb
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Infrastructure.pdb
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.csproj.AssemblyReference.cache
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.AssemblyInfoInputs.cache
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.AssemblyInfo.cs
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.csproj.CoreCompileInputs.cache
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cs
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cache
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\staticwebassets\msbuild.WEB API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\staticwebassets\msbuild.build.WEB API.props
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEB API.props
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEB API.props
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\staticwebassets.build.json
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\staticwebassets.development.json
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\scopedcss\bundle\WEB API.styles.css
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.csproj.CopyComplete
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\refint\WEB API.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.pdb
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\WEB API.genruntimeconfig.cache
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\obj\Debug\net7.0\ref\WEB API.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Humanizer.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\System.CodeDom.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\MediatR.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\MediatR.Contracts.dll
+F:\Asp.NET Core\TicketSystemTask\TicketSystemTask\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\appsettings.Development.json
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\appsettings.json
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\WEB API.exe
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\WEB API.deps.json
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\WEB API.runtimeconfig.json
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\WEB API.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\WEB API.pdb
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Azure.Core.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Azure.Identity.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Humanizer.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\MediatR.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\MediatR.Contracts.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\System.CodeDom.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Application.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Domain.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Infrastructure.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Application.pdb
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Domain.pdb
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\bin\Debug\net7.0\Infrastructure.pdb
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.csproj.AssemblyReference.cache
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.AssemblyInfoInputs.cache
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.AssemblyInfo.cs
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.csproj.CoreCompileInputs.cache
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cs
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cache
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\staticwebassets\msbuild.WEB API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\staticwebassets\msbuild.build.WEB API.props
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEB API.props
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEB API.props
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\staticwebassets.build.json
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\staticwebassets.development.json
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\scopedcss\bundle\WEB API.styles.css
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.csproj.CopyComplete
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\refint\WEB API.dll
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.pdb
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\WEB API.genruntimeconfig.cache
+F:\Asp.NET Core\TicketSystemTask\Backend\TicketSystemTask\obj\Debug\net7.0\ref\WEB API.dll

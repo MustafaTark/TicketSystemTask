@@ -1,0 +1,20 @@
+<div class="homePageContainer">
+  <button (click)="goToCreateNewTicket()" class="createNewTicketButton">Create New Ticket</button>
+  <div class="allTicketsContainer">
+    <ng-container *ngFor="let t of allTickets">
+      <div class="singleTicketContainer" [ngStyle]="{'backgroundColor':handleColor(t)}">
+        <p>Phone Number: {{t.phoneNumber}}</p>
+        <p>Created At : {{t.createdDate | date }}</p>
+        <p *ngIf="!t.isHandled">{{t.numberOfMinutes}} Minutes ago</p>
+        <button *ngIf="!t.isHandled" (click)="changeHandleStatus(t.id)">Handle</button>
+        <button *ngIf="t.isHandled" [ngStyle]="{'backgroundColor':'green'}">Handled!</button>
+      </div>
+    </ng-container>
+  </div>
+  <div class="pages">
+    <button (click)="goToPreviousPage()">Prev</button>
+    <button (click)="goToFirstPage()">1</button>
+    <button (click)="goToSecondPage()">2</button>
+    <button (click)="goToNextPage()">Next</button>
+  </div>
+</div>

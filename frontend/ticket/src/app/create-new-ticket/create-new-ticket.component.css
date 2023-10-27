@@ -1,0 +1,54 @@
+.createNewTicketContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.createNewTicketDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    max-width: 300px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: #ccc;
+    row-gap: 20px;
+}
+
+.inputDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 200px;
+    row-gap: 5px;
+}
+.inputDiv>input{
+    height: 30px;
+    width: 90%;
+    border: none;
+    outline: none;
+}
+.inputDiv>select{
+    height: 30px;
+    width: 90%;
+    border: none;
+    outline: none;
+}
+
+.createTicketButton{
+    margin-top: 50px;
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    background-color: #eee;
+    color: black;
+    
+}

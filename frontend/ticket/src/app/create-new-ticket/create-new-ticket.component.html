@@ -1,0 +1,36 @@
+<form class="createNewTicketContainer" (ngSubmit)="onSubmit(f)" #f="ngForm">
+
+    <div class="createNewTicketDiv">
+        <div class="inputDiv">
+            <label>Phone Number</label>
+            <input required type="text" maxlength="11" minlength="11" ngModel name="phoneNumber">
+        </div>
+        <div class="inputDiv">
+            <label>Governate</label>
+            <select ngModel name="governateId" required>
+                <option value="1">Cairo</option>
+                <option value="2">Alexandria</option>
+                <option value="3">Giza</option>
+            </select>
+        </div>
+        <div class="inputDiv">
+            <label>City</label>
+            <select ngModel name="cityId" required>
+                <option value=1>6th October</option>
+                <option value=2>Hadayek Al-Ahram</option>
+                <option value=3>Helwan</option>
+            </select>
+        </div>
+        <div class="inputDiv">
+            <label>District</label>
+            <select ngModel name="districtId" required>
+                <option value=1>Husary</option>
+                <option value=2>Shubra</option>
+                <option value=3>Wadi-Hof</option>
+            </select>
+        </div>
+        <p id="errorMessage" style="opacity: 0;margin: 0;color: red;">Error</p>
+    </div>
+    
+    <button type="submit" class="createTicketButton">Create Ticket</button>
+</form>
