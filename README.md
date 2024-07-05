@@ -1,7 +1,7 @@
 
 # TicketSystemTask
 
-This is a README file for a ticket management system developed using .NET Core with Domain-Driven Design (DDD), CQRS pattern, and Mediator Pattern with MediatR in the backend,
+Ticket management system developed using .NET Core with Domain-Driven Design (DDD), CQRS pattern, and Mediator Pattern with MediatR in the backend,
 and Angular in the frontend. The system allows you to create, list, and handle tickets.
 Automated Handling
 Tickets are automatically marked as "handled" if they were created within 60 minutes.
